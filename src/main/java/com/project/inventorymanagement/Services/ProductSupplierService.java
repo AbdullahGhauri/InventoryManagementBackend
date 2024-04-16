@@ -54,5 +54,6 @@ public class ProductSupplierService {
             repoProductSupplier = productSupplier;
             return productSupplierRepository.save(repoProductSupplier);
         }
+
     }
 }
